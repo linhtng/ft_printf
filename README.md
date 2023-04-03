@@ -8,7 +8,7 @@
 
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/linhtng/ft_printf?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/github/lines/github/linhtng/ft_printf?color=critical" />
+	<img alt="Number of lines of code" src="https://img.shields.io/github/languages/lines/linhtng/ft_printf?color=critical" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/linhtng/ft_printf?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/linhtng/ft_printf?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/linhtng/ft_printf?color=green" />
