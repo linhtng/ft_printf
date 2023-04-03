@@ -30,7 +30,7 @@
 
 	This project codes a simplified version (more information below) of the printf function.
 
-For more detailed information, look at the [**ft_printf's subject**][ft_printf.subject.pdf](https://github.com/linhtng/ft_printf/files/10218002/ft_printf.subject.pdf)
+For more detailed information, look at the [ft_printf.subject.pdf](https://github.com/linhtng/ft_printf/files/10218002/ft_printf.subject.pdf)
 
 
 ## 🛠️ Usage
